@@ -1,0 +1,48 @@
+
+
+  
+  .login-page {
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: #e6e1f8;
+    background-image:url(/src/assets/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  
+  mat-card {
+    width: 30%;
+    margin: 10% auto;
+    background-color: #ecc9c9;
+    border-radius: 8px;
+  }
+
+
+
+  
+  mat-form-field, mat-checkbox {
+    width: 80%;
+    display: block;
+    margin: auto;
+    
+  }
+  mat-card-content {
+    margin-top: 20px;
+  }
+  
+  .login-button {
+      background-color: rgb(176, 227, 236);
+    margin-top: 20px;
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+  }
+ 
+  
+  
